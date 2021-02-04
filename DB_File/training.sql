@@ -43,8 +43,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `employee_name`, `employee_age`, `employee_contact`, `employee_email`, `employee_password`, `employee_experience`, `employee_salary`) VALUES
-(1, 'Rasel', '30', '8801552421811', 'rasel@ar.com.bb', '12345', '7', '300'),
-(2, 'Mahbub', '33', '8801234567890', 'mahbub@ar.com.bd', '12345', '8', '350');
+(1, 'User1', '30', '8801111111111', 'user1@test.com', '12345', '7', '300'),
+(2, 'User2', '33', '8801234567890', 'user2@test.com', '12345', '8', '350');
 
 --
 -- Indexes for dumped tables
